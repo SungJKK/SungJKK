@@ -26,22 +26,22 @@ My name is Sung J Kim, and i'm currently living in San Francisco, CA
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/console.png"/>
 </a>
 <a>
-<img width="22px" src="https://img.icons8.com/color/48/000000/golang.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/golang.png"/>
 </a>
 <a>
-<img width="22px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </a>
 <a>
-<img width="22px" src="https://img.icons8.com/color/48/000000/haskell.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/haskell.png"/>
 </a>
 <br/>
 
-<img width="22px" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img width="22px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img width="22px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img width="22px" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img width="22px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
-<img width="22px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
 #### Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungJKK&exclude_repo=dotfiles&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
