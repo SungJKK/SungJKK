@@ -14,16 +14,16 @@ My name is Sung J Kim, and i'm currently living in San Francisco, CA
 
 #### Languages and Tools
 <a>
-<img width="22px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 </a>
 <a>
-<img width="22px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 </a>
 <a>
-<img width="22px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </a>
 <a>
-<img width="22px" src="https://img.icons8.com/color/48/000000/console.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/console.png"/>
 </a>
 <a>
 <img width="22px" src="https://img.icons8.com/color/48/000000/golang.png"/>
