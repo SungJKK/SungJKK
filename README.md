@@ -13,27 +13,13 @@ My name is Sung J Kim, and i'm currently living in San Francisco, CA
 - 🥅 2021 goals: contribute to open source.
 
 #### Languages and Tools
-<a>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-</a>
-<a>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-</a>
-<a>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-</a>
-<a>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/console.png"/>
-</a>
-<a>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/golang.png"/>
-</a>
-<a>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-</a>
-<a>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/haskell.png"/>
-</a>
 <br/>
 
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -42,6 +28,7 @@ My name is Sung J Kim, and i'm currently living in San Francisco, CA
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<br/>
 
 #### Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungJKK&exclude_repo=dotfiles&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
