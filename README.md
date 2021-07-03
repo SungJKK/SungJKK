@@ -13,25 +13,39 @@ My name is Sung J Kim, and i'm currently living in San Francisco, CA
 - 🥅 2021 goals: contribute to open source.
 
 #### Languages and Tools
-<div>
+<code>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+</code>
+<code>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+</code>
+<code>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+</code>
+<code>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/console.png"/>
+</code>
+<code>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/golang.png"/>
+</code>
+<code>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+</code>
+<code>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/haskell.png"/>
-</div>
+</code>
 <br/>
 
-<div>
+<code>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/git.png"/>
+</code>
+<code>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+</code>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-</div>
 <br/>
 
 #### Github stats
