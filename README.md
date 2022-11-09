@@ -1,16 +1,16 @@
 
 ## Hi, welcome to my github 👋
-My name is Sung J Kim, and i'm currently living in San Francisco, CA
+My name is Sung Joong Kim, and i'm currently living in San Francisco, CA.
 <br/>
 <br/>
 
 #### I'm a student, full stack developer, and an aspiring data scientist
 - 🤔 I'm a very curious person, interested in math, science, programming, and self-improvement.
-- 👍 Absolutely open source advocate.
-- 📚 I'm currently learning web development / devops / machine learning.
-- 🤣 Fun fact: I love programming, but i'm a math major.
-- 😈 Bad fact: To be honest, although I am very curious just about everything, i'm sorta lazy haha.
-- 🥅 2021 goals: contribute to open source.
+- 👍 Open source advocate.
+- 📚 Currently learning web development / devops / data science & machine learning.
+- 🤣 I love programming, but i'm a math major.
+- 😈 To be honest, although I am very curious just about everything, i'm sorta lazy haha.
+- 🥅 2022 goals: contribute to open source.
 
 #### Languages and Tools
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
