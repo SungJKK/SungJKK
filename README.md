@@ -31,12 +31,15 @@
 
 #### Hit me up 😎
 <a href="https://www.kaggle.com/skim98" target="_blank">
-    <img width="65px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" />
+    <img width="65px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
+<a href="https://medium.com/@justAnOaktree" target="_blank">
+    <img width="35px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a> 
 <a href="https://www.instagram.com/sung.j_kim/" target="_blank">
-    <img width="35px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+    <img width="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a> 
 <a href="https://www.linkedin.com/in/sung-kim-667953185/" target="_blank">
-    <img width="35px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+    <img width="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> 
 
