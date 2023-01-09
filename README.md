@@ -1,6 +1,6 @@
+![banner](https://github.com/SungJKK/SungJKK/blob/main/assets/banner.jpeg?raw=true)
 
-## Hi, welcome to my github 👋
-My name is Sung Joong Kim, and i'm currently living in San Francisco, CA.
+## Hi, welcome to Sung's github 👋
 <br/>
 <br/>
 
@@ -9,8 +9,7 @@ My name is Sung Joong Kim, and i'm currently living in San Francisco, CA.
 - 👍 Open source advocate.
 - 📚 Currently learning web development / devops / data science & machine learning.
 - 🤣 I love programming, but i'm a math major.
-- 😈 To be honest, although I am very curious just about everything, i'm sorta lazy haha.
-- 🥅 2022 goals: contribute to open source.
+- 🥅 2023 goals: contribute to open source.
 
 #### Languages and Tools
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
