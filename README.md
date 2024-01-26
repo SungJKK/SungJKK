@@ -7,7 +7,7 @@
 - 👍 Open source advocate.
 - 📚 Currently learning web development / devops / data science & machine learning.
 - 🤣 I love programming, but i'm a math major.
-- 🥅 2023 goals: contribute to open source.
+- 🥅 2024 goals: contribute to open source.
 
 #### Languages and Tools
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -29,17 +29,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungJKK&theme=transparent&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 [![Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungJKK&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Hit me up 😎
-<a href="https://www.kaggle.com/skim98" target="_blank" rel="noreferrer noopener">
-    <img width="100px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-</a>
-<a href="https://medium.com/@justAnOaktree" target="_blank" rel="noreferrer noopener">
-    <img width="100px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a> 
-<a href="https://www.instagram.com/sung.j_kim/" target="_blank" rel="noreferrer noopener">
-    <img width="125px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a> 
-<a href="https://www.linkedin.com/in/sung-kim-667953185/" target="_blank" rel="noreferrer noopener">
-    <img width="115px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> 
+
 
