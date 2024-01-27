@@ -1,4 +1,4 @@
-![banner](https://github.com/SungJKK/SungJKK/blob/main/assets/new_banner.jpeg?raw=true)
+![banner](https://github.com/SungJKK/SungJKK/blob/main/assets/new_banner.png?raw=true)
 
 # Hi, welcome to Sung's github 👋
 
